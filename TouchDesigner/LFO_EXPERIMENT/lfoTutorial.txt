@@ -1,0 +1,3 @@
+https://forum.derivative.ca/t/attach-lfo-to-parameter/181152
+
+Utilized previous project to look into LFO automation to get cool effects on phong mat. Next steps would be doing the same using audio waveforms to create cool visualization reactivity!
